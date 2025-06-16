@@ -1,3 +1,6 @@
 User-agent: *
 Allow: /
 Sitemap: https://kingkurev.github.io/ev-comparison/sitemap.xml
+Sitemap: https://kingkurev.github.io/ev-comparison/sitemap.xml
+User-agent: *
+Allow: /
